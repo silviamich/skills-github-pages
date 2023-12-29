@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Silvia Micheli
 ---
 
-This is me!
+This is me! 
